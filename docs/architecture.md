@@ -1,4 +1,4 @@
-# SportBook — архитектура
+# SportSpace — архитектура
 
 Веб-система бронирования спортивных площадок.
 Стек: React (Vite) + Node.js + Express + PostgreSQL + Prisma.
