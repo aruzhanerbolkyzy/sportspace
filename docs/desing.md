@@ -71,11 +71,11 @@
 
 | № | Экран | Адрес | Каркас | Макет |
 |---|---|---|---|---|
-| 01 | Список площадок | `/` | `wireframes/01-venues-list.excalidraw` | `screens/01-venues-list.png` |
-| 02 | Площадка и календарь | `/venues/:id` | `wireframes/02-venue-calendar.excalidraw` | `screens/02-venue-calendar.png` |
-| 03 | Форма брони | `/venues/:id/book` | `wireframes/03-booking-form.excalidraw` | `screens/03-booking-form.png` |
-| 04 | Мои брони | `/my-bookings` | `wireframes/04-my-bookings.excalidraw` | `screens/04-my-bookings.png` |
-| 05 | Админка | `/admin` | `wireframes/05-admin.excalidraw` | `screens/05-admin.png` |
+| 01 | Список площадок | `/` | `wireframes/01-venues-list.excalidraw` | `screen/01-venues-list.png` |
+| 02 | Площадка и календарь | `/venues/:id` | `wireframes/02-venue-calendar.excalidraw` | `screen/02-venue-calendar.png` |
+| 03 | Форма брони | `/venues/:id/book` | `wireframes/03-booking-form.excalidraw` | `screen/03-booking-form.png` |
+| 04 | Мои брони | `/my-bookings` | `wireframes/04-my-bookings.excalidraw` | `screen/04-my-bookings.png` |
+| 05 | Админка | `/admin` | `wireframes/05-admin.excalidraw` | `screen/05-admin.png` |
 
 На каркасах подписаны поля из базы (синим) и переходы кнопок (красные стрелки). Страницы входа, регистрации и форма площадки в этом наборе не нарисованы: делать по общим правилам этого файла.
 
