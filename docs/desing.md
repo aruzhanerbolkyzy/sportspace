@@ -1,6 +1,6 @@
 # SportBook — дизайн
 
-Опирается на [architecture.md](architecture.md). Каркасы: `docs/wireframes/`, экраны: `docs/screens/`.
+Опирается на [architecture.md](architecture.md). Каркасы: `docs/wireframes/`, экраны: `docs/screen/`.
 Этот файл читает ИИ-агент, который будет делать React, поэтому правила бронирования записаны здесь явно: их должно быть видно на экранах.
 
 ## 1. Стиль
